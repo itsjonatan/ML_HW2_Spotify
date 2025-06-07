@@ -1,4 +1,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.csv
-output/ 
+output/
+venv/
+*.nbconvert.ipynb 
